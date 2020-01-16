@@ -1,0 +1,9 @@
+.rood {
+	position: relative;
+	z-index: 1;
+}
+
+.blauw {
+	position: relative;
+	top: -100px; left: 50px;
+}
